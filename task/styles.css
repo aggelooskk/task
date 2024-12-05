@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#app {
+  border: solid;
+  border-radius: 25px;
+  width: 60vh;
+}
+
+h1 {
+  color: blue;
+  margin: 40px;
+}
+
+#loginForm {
+  margin: 40px;
+}
+
+label {
+  font-size: large;
+}
+
+#number {
+  font-size: medium;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+button {
+  border: solid;
+  border-radius: 25px;
+  margin-left: 143px;
+  color: blue;
+  font-size: medium;
+}
